@@ -1,1 +1,7 @@
+This code uses the Beautiful Soup library to read information from the site. The site example is taken from one of the most famous sites in Azerbaijan https://bina.az/ which provides information about apartments and buildings for sale and rent.
 
+Our task is to collect certain information about them and create a model that predicts the price of a house.
+
+In this work, there will be no pre-preparation of data, because the task of this project is not to create a model, but to collect data, which you can then work with.
+
+Since this can take a lot of time, I collected somewhere 4000+ data.
